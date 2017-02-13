@@ -6,7 +6,7 @@ img{
 }
 
 form{
-	margin: 10px
+	margin: 10px;
 	padding: 5px;
 }
 
@@ -43,11 +43,11 @@ a:visited {
     max-width:200px;
     height:auto;
     width:auto;
-}
+}}
 @media screen and (max-width: 400px) {
   img {
    	max-height:100px;
     max-width:100px;
     height:auto;
     width:auto;
-}
+}}
